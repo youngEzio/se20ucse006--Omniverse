@@ -1,1 +1,1 @@
-Usd files and datasets for a power plant's digital twin.
+Warehouse management using omniverse. Currently includes used files for racks and boxes.
