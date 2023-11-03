@@ -1,0 +1,1 @@
+Usd files and datasets for a power plant's digital twin.
